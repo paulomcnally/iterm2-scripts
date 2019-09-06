@@ -10,4 +10,6 @@ $ cd iterm2-scripts
 $ sudo sh ./install.sh
 ```
 
-![Menu](https://i.imgur.com/LI4qCpu.png)
+## Sprint
+
+~[Status Bar](https://i.imgur.com/SuFlkyF.png)
