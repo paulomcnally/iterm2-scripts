@@ -10,4 +10,4 @@ $ cd iterm2-scripts
 $ sudo sh ./install.sh
 ```
 
-![Imgur](https://imgur.com/LI4qCpu)
+![Menu](https://i.imgur.com/LI4qCpu.png)
