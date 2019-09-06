@@ -12,4 +12,4 @@ $ sudo sh ./install.sh
 
 ## Sprint
 
-~[Status Bar](https://i.imgur.com/SuFlkyF.png)
+![Status Bar](https://i.imgur.com/SuFlkyF.png)
