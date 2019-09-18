@@ -3,8 +3,8 @@ import random
 import iterm2
 from datetime import date
 
-SPRINT_END_DATE = date(2019,9,13)
-SPRINT_NUMBER = 36
+SPRINT_END_DATE = date(2019,9,30)
+SPRINT_NUMBER = 37
 
 
 days = (SPRINT_END_DATE-date.today()).days
